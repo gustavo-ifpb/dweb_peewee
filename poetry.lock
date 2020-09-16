@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "a little orm"
+name = "peewee"
+optional = false
+python-versions = "*"
+version = "3.13.3"
+
+[metadata]
+content-hash = "c25d704b1f9a8cbbfb53a20204a2dda3e92af2eb7b341e78d8405681dd310e47"
+python-versions = "^3.8"
+
+[metadata.files]
+peewee = [
+    {file = "peewee-3.13.3.tar.gz", hash = "sha256:1269a9736865512bd4056298003aab190957afe07d2616cf22eaf56cb6398369"},
+]
